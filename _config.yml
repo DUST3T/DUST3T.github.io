@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "DUST的微博",
+        title: "HDD的微博",
         href: ""                #"http://weibo.com/wudalanggd"
     },{
         title: "Wblearn's study video",
