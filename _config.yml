@@ -3,8 +3,8 @@ title:  HDD Blog
 SEOTitle: 黄豆豆的博客 | HDD Blog
 header-img: img/post-bg-desk.jpg
 email: dust3t@gmail.com
-description: "@DUST,知识的诱惑令我永不停歇，永不疲惫。"
-keyword: "DUST, @DUST, DUST的博客,DUST Blog, 博客, 个人网站, 互联网"
+description: "知识的诱惑令我永不停歇，永不疲惫。"
+keyword: "DUST, DUST的博客,DUST Blog, 博客, 个人网站, 互联网"
 url: "http://dust3t.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: https://github.com/DUST3T/dust3t.github.io.git # you code repository
