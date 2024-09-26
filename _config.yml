@@ -100,7 +100,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "HDD的微博",
+        title: "黄继鹏微博",
         href: ""                #"http://weibo.com/wudalanggd"
     }
     # ,{
