@@ -7,7 +7,7 @@ author: "黄继鹏"
 header-img: "img/post/post_my_world.jpg"
 catalog: true
 tags:
-    - 闲谈
+    - 散记
 ---
 
 ## 通过Gitpages 和 jekyll 搭建博客的感想
@@ -21,7 +21,3 @@ tags:
 ## 最后
 
 21:20了，我需要按时睡觉。活到老学到老，我希望自己未来能完全搞懂这个模板或者自己搭建一个出来，加油！
-
-
-
-
