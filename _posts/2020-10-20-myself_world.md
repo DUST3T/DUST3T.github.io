@@ -3,7 +3,7 @@ layout: post
 title: "我的小世界（第一篇）"
 subtitle:
 date: 2020-10-20 21:10:15
-author: "DUST"
+author: "黄继鹏"
 header-img: "img/post/post_my_world.jpg"
 catalog: true
 tags:
