@@ -1,18 +1,18 @@
 # Site settings
-title: HJP
-SEOTitle: HJP
-header-img: img/home_header.jpg
-email: dust3t@gmail.com
-description: "知识的诱惑令我永不停歇，永不疲惫"
-keyword: "博客, 个人网站"
-url: "http://dust3t.github.io/"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: https://github.com/DUST3T/dust3t.github.io.git # you code repository
+title:黄继鹏博客
+SEOTitle:黄继鹏博客
+header-img:img/home_header.jpg
+email:dust3t@gmail.com
+description:"知识的诱惑令我永不停歇，永不疲惫"
+keyword:"博客, 个人网站"
+url:"http://dust3t.github.io/"          # your host, for absolute URL
+baseurl:""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo:https://github.com/DUST3T/dust3t.github.io.git # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "你不会让别人偷走你的财产，但你却让别人偷走你的时间。"
-sidebar-avatar: /img/Me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar:true                           # whether or not using Sidebar.
+sidebar-about-description:"你不会让别人偷走你的财产，但你却让别人偷走你的时间。"
+sidebar-avatar:/img/Me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
